@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: imdmunawar/tetrisv1:4
+        image: imdmunawar/tetrisv2:2
         ports:
         - containerPort: 3000   # Use port 3000
 
